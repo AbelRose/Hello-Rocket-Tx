@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+/.mvn/
+/tx-producer/.mvn/
+/tx-consumer/.mvn/
